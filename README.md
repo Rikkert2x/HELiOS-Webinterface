@@ -1,7 +1,8 @@
 # HELiOS Webinterface
 
-Create CAD Models with HiCAD and store product structure in HELiOS
-Use this data for webinfterface purposes
+Create CAD Models with HiCAD and store product structure in HELiOS and use this data for webinfterface purposes.
+
+
 
 ## Requirements 
 * SQL Server 2008 R2
