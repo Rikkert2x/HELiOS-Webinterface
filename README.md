@@ -24,6 +24,6 @@ Create CAD Models with HiCAD and store product structure in HELiOS and use this 
 * Prices
 * **and more**
 
-## Download
+## Download output
 * CSV
 * XLS
