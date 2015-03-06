@@ -2,7 +2,7 @@
 
 Create CAD Models with HiCAD and store product structure in HELiOS to use this data in a web browser
 
-# Requirements 
+## Requirements 
 * SQL Server 2008 R2
 * SQL Server 2008 R2 Native client 10.x
 * HELiOS Database
